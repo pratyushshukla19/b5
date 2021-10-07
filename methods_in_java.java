@@ -4,6 +4,6 @@ class Main {
   }
   
   public static void hi() {
-    System.out.println("Hi Java");
+    System.out.println("Hello World");
   }
 }
