@@ -1,9 +1,9 @@
 class Main {
   public static void main(String[] args) {
-    hello();
+    hi();
   }
   
-  public static void hello() {
-    System.out.println("Hello Java");
+  public static void hi() {
+    System.out.println("Hi Java");
   }
 }
